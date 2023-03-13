@@ -10,7 +10,7 @@
 </head>
 <body>
 <h1 align="center">Welcome to Mithun Technologies Private Limited. Bengaluru,Karnataka,India </h1>
-<h1 align="center"> Avinna & pushplata and also for Job Assitance Job Support also..github-webhook job prc=actice.Teaching Real Time scnerios</h1>
+<h1 align="center"> Avinna & pushplata .github-webhook</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
